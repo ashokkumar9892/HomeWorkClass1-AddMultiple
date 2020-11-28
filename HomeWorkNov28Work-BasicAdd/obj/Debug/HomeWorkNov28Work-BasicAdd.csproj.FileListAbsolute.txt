@@ -1,0 +1,15 @@
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\bin\Debug\HomeWorkNov28Work-BasicAdd.exe.config
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\bin\Debug\HomeWorkNov28Work-BasicAdd.exe
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\bin\Debug\HomeWorkNov28Work-BasicAdd.pdb
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.csprojAssemblyReference.cache
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\MainWindow.g.cs
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\App.g.cs
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd_MarkupCompile.cache
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd_MarkupCompile.lref
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\MainWindow.baml
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.g.resources
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work_BasicAdd.Properties.Resources.resources
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.csproj.GenerateResource.cache
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.csproj.CoreCompileInputs.cache
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.exe
+D:\Software Learning\December Class\HomeWorkNov28Work-BasicAdd\HomeWorkNov28Work-BasicAdd\obj\Debug\HomeWorkNov28Work-BasicAdd.pdb
